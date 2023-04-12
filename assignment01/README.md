@@ -36,10 +36,10 @@ stdin).
 
 ## Example of usage
 
-You can run the following code yourself. The code operates on the message, that you can take a look at in
+You can run the following code yourself. The code operates on a message, at which you can take a look in
 the `./resources/examples/original_message.txt`.
 
-Run this code from this (`assignment01` directory)
+Run the following code from this (`assignment01` directory)
 
 ```shell
 # generate keys and save them in pub.txt and priv.txt
