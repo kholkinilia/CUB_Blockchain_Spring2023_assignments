@@ -18,9 +18,9 @@ positional arguments:
 optional arguments:
   -h, --help            show this help message and exit
   -u PUBLIC_KEY_FILENAME, --public_key_filename PUBLIC_KEY_FILENAME
-                        File, where to store public key. If not provided, public key is printed in stdout
+                        File, where to store public key. If not provided, public key is printed to stdout
   -r PRIVATE_KEY_FILENAME, --private_key_filename PRIVATE_KEY_FILENAME
-                        File, where to store private key. If not provided, private key is printed in stdout
+                        File, where to store private key. If not provided, private key is printed to stdout
   -n N_BITS, --n_bits N_BITS
                         Number of bits in each of generated primes.
   -m ORIGINAL_MESSAGE_FILENAME, --original_message_filename ORIGINAL_MESSAGE_FILENAME
