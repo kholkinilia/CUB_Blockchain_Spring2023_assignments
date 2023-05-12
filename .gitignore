@@ -158,3 +158,9 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
+
+# HardHat
+/assignment02/node_modules/
+/assignment02/.env
+/assignment02/artifacts/
+/assignment02/cache/
